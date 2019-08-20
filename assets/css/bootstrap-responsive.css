@@ -156,6 +156,10 @@
   .span1 {
     width: 70px;
   }
+  .spancustom {
+    width: 270px;
+    height: 200px;
+  }
   .offset12 {
     margin-left: 1230px;
   }

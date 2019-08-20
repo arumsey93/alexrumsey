@@ -416,6 +416,22 @@ a:focus {
           box-sizing: border-box;
 }
 
+.header-social-links {
+  list-style-type: none;
+  display: flex;
+}
+
+.alex-rumsey-profile-header {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.contact-me-row {
+  display: flex;
+  justify-content: center
+}
+
 .row-fluid [class*="span"]:first-child {
   margin-left: 0;
 }
@@ -650,6 +666,15 @@ a:focus {
 
 p {
   margin: 0 0 10px;
+}
+
+.portfolio-pics-div {
+  display: flex;
+  justify-content: center
+}
+
+.none {
+  margin: 0 0 5px;
 }
 
 .lead {
