@@ -673,6 +673,40 @@ p {
   justify-content: center
 }
 
+.social-icons-2 {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-left: 550px
+}
+
+.postmates-and-text {
+  display: flex;
+  justify-content: center;
+}
+
+.postmates-picture {
+  display: flex;
+  justify-content: space-between;
+  text-align: end
+}
+
+.postmates-inner-text {
+  color: white;
+}
+
+.roberthalf-and-text {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.roberthalf-inner-text {
+  color: white;
+  text-align: center;
+
+}
+
 .none {
   margin: 0 0 5px;
 }

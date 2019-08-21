@@ -160,6 +160,11 @@
     width: 270px;
     height: 200px;
   }
+
+  .span25 {
+    width: 170px;
+  }
+
   .offset12 {
     margin-left: 1230px;
   }
@@ -973,6 +978,10 @@
   .nav-collapse .nav {
     float: none;
     margin: 0 0 10px;
+  }
+
+  .paragraph-no-margin {
+    margin: 0 0 0px
   }
   .nav-collapse .nav > li {
     float: none;
